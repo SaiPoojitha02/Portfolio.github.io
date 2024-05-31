@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Sai Poojitha Madduri
+Sai Poojitha Madduri
 Web developer
 
 Show Contacts
